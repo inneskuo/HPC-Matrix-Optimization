@@ -1,0 +1,5 @@
+# 忽略編譯出來的執行檔
+matrix_hpc
+*.o
+*.exe
+.vscode/
